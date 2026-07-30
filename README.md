@@ -19,7 +19,7 @@
 
 ### 👋 Hey, I'm Krishna
 
-Building **production-grade web apps** — not todo apps.
+Building **production-grade web apps** - not todo apps.
 
 - 🔭 **Currently** → Full Stack Dev @ Real Variable Digital Asset Services, Hyderabad
 - 🤖 **Exploring** → AI integrations: RAG pipelines, LangChain, Vector DBs
